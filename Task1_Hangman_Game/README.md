@@ -107,9 +107,9 @@ py hangman.py
 ```text
 Task1_Hangman_Game
 │
+├── README.md
 ├── hangman.py
-├── hangman_output.png
-└── README.md
+└── hangman_output.png 
 ```
 
 ### File Description

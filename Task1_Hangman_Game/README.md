@@ -205,14 +205,14 @@ Create a simple text-based Hangman game where the player guesses a word one lett
 
 ---
 
+## 📄 License
+
+This project was created for educational and internship purposes.
+
+---
 ## 👨‍💻 Author
 
 **Istikhar Naz**
 
 **CodeAlpha Python Programming Internship — Task 1**
 
----
-
-## 📄 License
-
-This project was created for educational and internship purposes.

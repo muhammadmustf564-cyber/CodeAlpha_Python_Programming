@@ -70,9 +70,9 @@ The generated password will be different each time because the program uses rand
 ```text
 Task3_Password_Generator
 │
+├── README.md
 ├── password_generator.py
-├── password_generator_output.png
-└── README.md
+└── password_generator_output.png
 ```
 
 ## 📸 Sample Output

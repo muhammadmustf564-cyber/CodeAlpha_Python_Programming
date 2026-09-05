@@ -6,7 +6,7 @@ These projects focus on developing practical Python applications while strengthe
 
 ## 📚 Completed Projects
 
-### 1. 🎮 Hangman Game
+### ```1. 🎮 Hangman Game```
 
 A simple command-line Hangman game where the player attempts to guess a hidden word one letter at a time.
 
@@ -23,7 +23,7 @@ A simple command-line Hangman game where the player attempts to guess a hidden w
 
 ---
 
-### 2. 📈 Stock Portfolio Tracker
+### ```2. 📈 Stock Portfolio Tracker```
 
 A menu-driven application that allows users to add and manage stocks and calculate the total value of their portfolio.
 
@@ -40,7 +40,7 @@ A menu-driven application that allows users to add and manage stocks and calcula
 
 ---
 
-### 3. 🔐 Password Generator
+### ```3. 🔐 Password Generator```
 
 A command-line application that generates random passwords based on the length specified by the user.
 

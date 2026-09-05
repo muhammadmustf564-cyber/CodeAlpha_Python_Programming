@@ -62,9 +62,9 @@ Follow the menu options displayed in the terminal.
 ```text
 Task2_Stock_Portfolio_Tracker
 │
+├── README.md
 ├── stock_tracker.py
-├── stock_tracker_output.png
-└── README.md
+└── stock_tracker_output.png
 ```
 
 ## 📸 Sample Output

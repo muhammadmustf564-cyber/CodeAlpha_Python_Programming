@@ -55,7 +55,58 @@ Open a terminal inside the project folder and run:
 python stock_tracker.py
 ```
 
-Follow the menu options displayed in the terminal.
+The program will display a menu:
+
+```text
+===== Stock Portfolio Tracker =====
+1. Add Stock
+2. View Portfolio
+3. Calculate Total Value
+4. Remove Stock
+5. Exit
+```
+
+### Example: Adding a Stock
+
+Select **option 1** and enter the stock information when prompted:
+
+```text
+Enter your choice: 1
+Enter stock name: Tesla
+Enter number of shares: 5
+Enter price per share: 3000
+TESLA added successfully!
+```
+
+### Example: Viewing the Portfolio
+
+Select **option 2**:
+
+```text
+Enter your choice: 2
+
+----- Your Portfolio -----
+TESLA: 5 shares × $3000.00 = $15000.00
+```
+
+### Example: Calculating Total Value
+
+Select **option 3**:
+
+```text
+Enter your choice: 3
+
+Total Portfolio Value: $15000.00
+```
+
+### Example: Exiting the Program
+
+Select **option 5**:
+
+```text
+Enter your choice: 5
+Thank you for using Stock Portfolio Tracker!
+```
 
 ## 📂 Project Structure
 
@@ -71,7 +122,7 @@ Task2_Stock_Portfolio_Tracker
 
 ![Stock Portfolio Tracker Output](stock_tracker_output.png)
 
-The sample output demonstrates adding Tesla stock, viewing the portfolio, calculating the total portfolio value, and exiting the application.
+The screenshot above shows the program in action, including adding a Tesla stock, viewing the portfolio, calculating the total portfolio value, and exiting the application.
 
 ## 🎯 Learning Outcomes
 
@@ -83,5 +134,10 @@ Through this project, I practiced:
 * Applying conditional statements
 * Performing calculations with stored data
 * Building a simple command-line application
+  
+## 👨‍💻 Author
 
+**Istikhar Naz**
+
+**CodeAlpha Python Programming Internship — Task 2**
 

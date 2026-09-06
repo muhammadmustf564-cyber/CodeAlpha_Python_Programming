@@ -19,7 +19,7 @@ A simple command-line Hangman game where the player attempts to guess a hidden w
 * Lists
 * Game logic
 
-📂 **Project:** [Task 1 — Hangman_Game](./Task1-Hangman_-Game)
+📂 **Project:** [Task 1_Hangman_Game](./Task1-Hangman_-Game)
 
 ---
 

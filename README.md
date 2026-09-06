@@ -19,7 +19,7 @@ A simple command-line Hangman game where the player attempts to guess a hidden w
 * Lists
 * Game logic
 
-📂 **Project:** [Task 1_Hangman_Game](./Task1-Hangman_-Game)
+📂 **Project:** [Task 1_Hangman_Game](./Task1_Hangman_Game)
 
 ---
 
@@ -36,7 +36,7 @@ A menu-driven application that allows users to add and manage stocks and calcula
 * Arithmetic operations
 * Menu-driven programs
 
-📂 **Project:** [Task 2 — Stock_Portfolio_Tracker](./Task2-Stock-Portfolio_Tracker)
+📂 **Project:** [Task 2_Stock_Portfolio_Tracker](./Task2_Stock_Portfolio_Tracker)
 
 ---
 
@@ -52,7 +52,7 @@ A command-line application that generates random passwords based on the length s
 * User input
 * Random character generation
 
-📂 **Project:** [Task 3 — Password_Generator](./Task3-Password-Generator)
+📂 **Project:** [Task 3_Password_Generator](./Task3_Password_Generator)
 
 ---
 
